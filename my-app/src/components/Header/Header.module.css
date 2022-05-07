@@ -1,0 +1,45 @@
+* {
+  text-decoration: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #ffc2a0;
+}
+
+.slogan {
+  font-family: 'Quintessential';
+  font-size: 25px;
+  color: #421000;
+}
+
+.logo {
+
+}
+
+.nav_list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: var(--black-text);
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav_item {
+  list-style: none;
+  text-decoration: none;
+  color: inherit;
+  /* color: #ffc2a0; */
+}
