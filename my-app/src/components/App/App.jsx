@@ -1,5 +1,5 @@
 // import logo from '../../pictures/logo/logo.svg';
-import * as candles from '../../todos.json'
+import * as candles from '../../candles.json'
 import React, { Suspense } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import { Header } from '../Header/Header'

@@ -1,0 +1,33 @@
+[
+  { 
+    "id": "id-1", 
+    "text": "Свічка бабл 3х3", 
+    "src": "https://dl.dropboxusercontent.com/s/zsy43uwy7s6wm5g/IMG_3320.JPG?dl=0",
+    "availability": true 
+  },
+  { 
+    "id": "id-2", 
+    "text": "Свічка бабл 2х2", 
+    "src": "https://dl.dropboxusercontent.com/s/3cyna9xqodh7sk7/IMG_3333.JPG?dl=0",
+    "availability": true 
+  },
+  { 
+    "id": "id-3", 
+    "text": "Свічка-гарбузик", 
+    "src": "https://dl.dropboxusercontent.com/s/zsy43uwy7s6wm5g/IMG_3320.JPG?dl=0",
+    "availability": true 
+  },
+  { 
+    "id": "id-4", 
+    "text": "Свічка з вощини", 
+    "src": "https://dl.dropboxusercontent.com/s/pf0a7552drgm88y/IMG_3294.JPG?dl=0",
+    "availability": true 
+  },
+  { 
+    "id": "id-5", 
+    "text": "Просто якийсь собака", 
+    "src": "https://us.v-cdn.net/5019960/uploads/userpics/468/p1NMCBY2PV254.jpeg",
+    "availability": false 
+  }
+]
+

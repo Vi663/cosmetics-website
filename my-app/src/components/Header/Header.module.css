@@ -1,5 +1,6 @@
 * {
   text-decoration: none;
+  font-family: 'Quintessential';
 }
 
 *,
@@ -8,14 +9,24 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .header {
   background-color: #ffc2a0;
+  /* background-color: #a05f83;
+  background-color: #ef86af;
+  background-color: #95b1a9; */
 }
 
 .slogan {
-  font-family: 'Quintessential';
   font-size: 25px;
   color: #421000;
+  /* padding-botom: 20px;
+  padding-left: 20px; */
+  padding: 20px 0px 20px 20px;
 }
 
 .logo {
@@ -33,13 +44,21 @@
   line-height: 16px;
   letter-spacing: 0.02em;
   color: var(--black-text);
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
 }
 
 .nav_item {
   list-style: none;
   text-decoration: none;
-  color: inherit;
-  /* color: #ffc2a0; */
+  color: #421000;
+}
+
+.active {
+  color: #95b1a9;
+  text-decoration: underline;
+}
+
+.nav_item:hover
+.nav_item:focus {
+  color: #95b1a9;
 }
